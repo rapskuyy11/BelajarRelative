@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Belajar Relative</string>
+    <string-array name="arr_kepada">
+        <item>aku</item>
+        <item>kamu</item>
+        <item>dia</item>
+    </string-array>
 </resources>
